@@ -1,5 +1,13 @@
 ...
+layout: page
+permalink: index.html
 ...
+
+Ma landing page
+https://wireframe.cc/sg94as
+
+
+
 Thierson
 Qui suis-je ?
 
