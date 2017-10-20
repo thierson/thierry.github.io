@@ -1,27 +1,26 @@
 .email{
-    border: 1px solid;
     height: 40px;
     width: 50%;
-    padding: 4px 6px;
-    margin: 10px 0;
     box-sizing: border-box;
+    margin-top: 10px;
 }
 
-.Nom{
-    border: 2px solid;
+.nom{
     height: 40px;
     width: 50%;
-    padding: 4px 20px;
-    margin: 10px 0;
     box-sizing: border-box;
 }
 
 .submit{
     height: 40px;
     width: 50%;
-    padding: 4px 15px;
-    margin: 5px 0;
+    margin-top: 10px;
 }
+
+.texte {
+	margin-top: 10px;
+}
+
 section{
     height: 50px;
     margin: auto;
