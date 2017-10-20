@@ -36,17 +36,25 @@ Demain
 
 Mon projet professionnel, je souhaite créer ma propre boite
 
+
 <section>
 <form action="https://formspree.io/mbuyithierry@gmail.com"
       method="POST">
-    <div class="nom">Nom
-        <input type="text" name="name">
-    </div>
-    <div class="email">Votre email
-        <input type="email" name="_replyto">
-    </div>
+      <fieldset>
+        <legend>Personal information:</legend>
+        <div class="nom">Nom :
+            <input type="text" name="name">
+        </div>
+        <div class="email">Votre email :
+            <input type="email" name="_replyto">
+        </div>
+        <div class="texte">
+            Commentaires :
+            <textarea name="message" placeholder="Votre message"></textarea>
+        </div>
     <div class="submit">
-    <input type="submit" value="Send">
+        <input type="submit" value="Envoyé">
     </div>
+    </fieldset>
 </form>
 </section>
