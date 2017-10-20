@@ -1,7 +1,7 @@
-...
+---
 layout: page
 permalink: index.html
-...
+---
 
 Ma landing page
 https://wireframe.cc/sg94as
@@ -36,4 +36,17 @@ Demain
 
 Mon projet professionnel, je souhaite créer ma propre boite
 
-
+<section>
+<form action="https://formspree.io/mbuyithierry@gmail.com"
+      method="POST">
+    <div class="nom">Nom
+        <input type="text" name="name">
+    </div>
+    <div class="email">Votre email
+        <input type="email" name="_replyto">
+    </div>
+    <div class="submit">
+    <input type="submit" value="Send">
+    </div>
+</form>
+</section>
