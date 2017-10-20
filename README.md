@@ -41,7 +41,7 @@ Mon projet professionnel, je souhaite créer ma propre boite
 <form action="https://formspree.io/mbuyithierry@gmail.com"
       method="POST">
       <fieldset>
-        <legend>Personal information:</legend>
+        <legend>Me contacter:</legend>
         <div class="nom">Nom :
             <input type="text" name="name">
         </div>
