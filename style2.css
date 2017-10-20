@@ -1,0 +1,23 @@
+.email{
+    border: 1px solid;
+    width: 100%;
+    padding: 10px 20px;
+    margin: 7px 0;
+    box-sizing: border-box;
+}
+
+.Nom{
+    border: 2px solid;
+    height: 40px;
+    width: 50%;
+    padding: 15px 25px;
+    margin: 10px 0;
+    box-sizing: border-box;
+}
+
+.submit{
+    height: 40px;
+    width: 50%;
+    padding: 15px 25px;
+    margin: 10px 0;
+}
